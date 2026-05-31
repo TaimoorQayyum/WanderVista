@@ -7,8 +7,8 @@ export default function Hero() {
     <section className="relative overflow-hidden">
       <div className="absolute inset-0">
         <Image
-          src="https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-TXJEdxs5Hh4"
-          alt="Pakistan travels landscape"
+          src="https://unsplash.com/photos/green-field-under-white-skies-during-daytime-_qKb28Rzcnw"
+          alt="Pakistan travel landscape"
           fill
           className="object-cover"
           priority
