@@ -23,7 +23,7 @@ export const destinations: Destination[] = [
     priceRange: "Mid-Range",
     duration: "5–7 Days",
     region: "Gilgit-Baltistan",
-    image: "https://unsplash.com/photos/a-lake-surrounded-by-mountains-k-x1ynWO_Io",
+    image: "https://images.unsplash.com/photo-1667922210719-566cbfec2b11?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     highlights: [
       "Baltit & Altit Forts in Karimabad",
       "Attabad Lake boat ride",
@@ -42,7 +42,7 @@ export const destinations: Destination[] = [
     priceRange: "Budget",
     duration: "3–4 Days",
     region: "Punjab",
-    image: "https://unsplash.com/photos/a-large-white-and-red-building-surrounded-by-trees-qme-nmhIZA8",
+    image: "https://images.unsplash.com/photo-1684439061252-cb6632acb8ce?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     highlights: [
       "Badshahi Mosque & Lahore Fort (UNESCO)",
       "Food Street & traditional Lahori breakfast",
@@ -99,7 +99,7 @@ export const destinations: Destination[] = [
     priceRange: "Budget",
     duration: "2–3 Days",
     region: "Sindh",
-    image: "https://unsplash.com/photos/white-and-gray-concrete-buildings-during-daytime-24W9b5WZuS4",
+    image: "https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?q=80&w=2025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     highlights: [
       "Clifton Beach & Port Grand waterfront",
       "Quaid-e-Azam Mausoleum",
