@@ -7,7 +7,7 @@ export default function Hero() {
     <section className="relative overflow-hidden">
       <div className="absolute inset-0">
         <Image
-          src="https://unsplash.com/photos/green-field-under-white-skies-during-daytime-_qKb28Rzcnw"
+          src="https://images.unsplash.com/photo-1569744405519-ba6615346f39?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Pakistan travel landscape"
           fill
           className="object-cover"
