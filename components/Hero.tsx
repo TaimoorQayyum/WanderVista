@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <Image
           src="https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-TXJEdxs5Hh4"
-          alt="Pakistan travel landscape"
+          alt="Pakistan travels landscape"
           fill
           className="object-cover"
           priority
